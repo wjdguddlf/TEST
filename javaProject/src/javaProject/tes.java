@@ -14,6 +14,9 @@ public class tes {
 		
 		
 		System.out.println("test commit");
+		
+		
+		System.out.println("되돌리기!!");
 	}
 
 }
