@@ -12,11 +12,8 @@ public class tes {
 		
 		System.out.println("member222_test");
 		
-		
 		System.out.println("test commit");
 		
-		
-		System.out.println("되돌리기!!");
 	}
 
 }
