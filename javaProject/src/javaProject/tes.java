@@ -11,9 +11,6 @@ public class tes {
 		System.out.println("member222");
 		
 		System.out.println("member222_test");
-		
-		System.out.println("test commit");
-		
 	}
 
 }
