@@ -6,6 +6,7 @@ public class tes {
 		
 		System.out.println("tet");
 		
+		System.out.println("member");
 	}
 
 }
