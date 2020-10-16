@@ -8,7 +8,9 @@ public class tes {
 		
 		System.out.println("member");
 		
-		System.out.println("member222111");
+		System.out.println("member222");
+		
+		System.out.println("member222_test");
 	}
 
 }
